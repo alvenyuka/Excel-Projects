@@ -1,2 +1,2 @@
 # Excel-Projects
-Data Analysis Excel Projects
+Data Analysis Excel Projects Practice
